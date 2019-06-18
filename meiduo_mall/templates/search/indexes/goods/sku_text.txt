@@ -1,0 +1,10 @@
+{{ object.id }}
+{{ object.name }}
+{{ object.caption }}
+
+
+
+
+
+
+
